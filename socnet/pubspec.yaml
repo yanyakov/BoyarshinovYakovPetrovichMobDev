@@ -88,3 +88,13 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+  dependencies:
+  flutter:
+    sdk: flutter
+  easy_localization: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_route: ^2.0.0
